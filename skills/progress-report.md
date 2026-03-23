@@ -84,6 +84,14 @@ For each goal set at the start of the period:
 
 ---
 
+## Live Data Sources
+
+- **WHO BMI and Health Metrics Guidelines** (who.int): Reference World Health Organization body mass index classifications and health metric thresholds to contextualize client measurements within established health standards.
+- **CDC Physical Activity Recommendations** (cdc.gov/physicalactivity): Access the Centers for Disease Control and Prevention's physical activity guidelines and benchmark data to evaluate client progress against population-level recommendations.
+- **Sport-Specific Benchmark Databases**: Reference standardized performance benchmarks (e.g., strength standards by bodyweight, VO2max norms, flexibility benchmarks) appropriate to the client's sport or fitness discipline.
+
+---
+
 Client data and program history provided by the user:
 
 $ARGUMENTS

@@ -67,6 +67,8 @@ For each training day:
 
 - **ExerciseDB API** (exercisedb.io): Fetch exercise library data including muscle groups, equipment requirements, and demonstration images to validate exercise selection and suggest substitutions.
 - **Wger Workout Manager API** (wger.de/api/v2): Access nutrition and exercise databases, training logs, and body weight records to enrich program recommendations with real benchmark data.
+- **NSCA Training Guidelines**: Reference the National Strength and Conditioning Association's evidence-based guidelines for periodization, load prescription, and exercise technique standards.
+- **PubMed Exercise Science Research** (pubmed.ncbi.nlm.nih.gov): Query peer-reviewed exercise science literature to ground program design decisions in current research on training adaptations and programming principles.
 
 ---
 

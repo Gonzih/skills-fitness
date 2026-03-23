@@ -52,6 +52,14 @@ Write a thorough client progress check-in summary based on the information provi
 
 ---
 
+## Live Data Sources
+
+- **PubMed Sleep and Recovery Research** (pubmed.ncbi.nlm.nih.gov): Query peer-reviewed literature on sleep quality, recovery protocols, and adaptation to training load to contextualize client recovery patterns.
+- **Garmin Health API Patterns**: Reference Garmin's health and activity data patterns (HRV, sleep stages, stress scores) to interpret wearable-sourced recovery metrics reported by clients.
+- **Whoop Recovery Science Publications** (whoop.com/the-locker): Access Whoop's published recovery science and strain research to enrich interpretation of recovery scores and readiness assessments.
+
+---
+
 Client check-in data provided by the user:
 
 $ARGUMENTS
