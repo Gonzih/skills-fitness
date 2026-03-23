@@ -1,6 +1,6 @@
 {
   "name": "@gonzih/skills-fitness",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Fitness and wellness skills for Claude Code",
   "main": "index.js",
   "files": [

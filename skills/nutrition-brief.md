@@ -75,6 +75,7 @@ Provide a realistic sample meal plan showing how the targets can be met:
 
 - **Open Food Facts API** (world.openfoodfacts.org/data): Look up nutritional data for specific foods and branded products to provide accurate macro breakdowns and ingredient transparency.
 - **USDA FoodData Central API** (fdc.nal.usda.gov): Access comprehensive nutritional profiles for whole foods and ingredients to build accurate sample meal plans and validate macro targets.
+- **NIH Dietary Reference Intakes** (ods.od.nih.gov): Reference the National Institutes of Health's dietary reference intake values for vitamins, minerals, and macronutrients to ensure recommendations meet established nutritional standards.
 
 ---
 
