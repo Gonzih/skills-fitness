@@ -1,0 +1,27 @@
+{
+  "name": "@gonzih/skills-fitness",
+  "version": "1.0.0",
+  "description": "Fitness and wellness skills for Claude Code",
+  "main": "index.js",
+  "files": [
+    "skills/"
+  ],
+  "scripts": {
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "fitness",
+    "wellness",
+    "health",
+    "nutrition"
+  ],
+  "author": "gonzih",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonzih/skills-fitness"
+  }
+}
